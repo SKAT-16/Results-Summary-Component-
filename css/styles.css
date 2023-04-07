@@ -70,6 +70,10 @@ body {
     float: left;
 }
 
+.summary ul {
+    padding: 0;
+}
+
 .summary li {
     list-style: none;
     display: flex;
